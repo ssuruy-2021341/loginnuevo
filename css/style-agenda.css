@@ -1,0 +1,84 @@
+.navbar{
+    background: linear-gradient(to right, #971c1c,#022724);
+}
+
+.navbar-brand{
+    font-family: 'Times New Roman', Times, serif;
+    color: #fff;
+}
+.navbar-nav{
+    text-align: center;
+}
+
+#botonBusqueda{
+    background-color: #43CBFF;
+    color: #fff;
+}
+
+#contactosTitulo{
+    font-size: 80px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration-color: #FFF;
+    background-color:#971c1c;
+}
+
+.detalles{
+    font-size: 15px;
+    background-color: aquamarine;
+}
+
+#añadir{
+    margin: 2%;
+    display: block;
+    width: 200px;
+    font-family: sans-serif;
+    font-weight: 700;
+    background: linear-gradient(to right, #971c1c,#022724);
+    border-radius: 5px;
+    color: #FFF;
+    border: none;
+    padding: 15px 30px;
+    text-decoration: dashed;
+}
+
+#usuario{
+    margin-left: 30%;
+    text-align: left;
+    background-color: black;
+}
+
+#targeta{
+    background-color: black;
+    margin-left: 20%;
+    text-decoration-color: #FFF;
+}
+
+#prioridad{
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin: 50px;
+    background-color: #FFF;
+}
+
+.prioridadcheck{
+    margin-left: 30%;
+    margin-right: 30%;
+    background-color: #FFF;
+}
+
+#lista{
+    font-size: 40px;
+    margin-left: 7%;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 8%; 
+}
+
+.check{
+    margin: 50px;
+   background-color: aliceblue;
+   text-align: center;
+   margin-left: 25%;
+   margin-right: 25%;
+}

@@ -1,0 +1,74 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body{
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   min-height: 100vh;
+   background: linear-gradient(to right, #971c1c,#022724); 
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    background: rgb(25, 49, 100);
+    text-align: center;
+    padding: 20px 25px;
+    box-shadow:  0 15px 20px rgba(71, 3, 6, 0.7);
+}
+
+form .title{
+    color: #FFF;
+    font-size: 35px;
+    font-weight: 800;
+    margin-bottom: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+form label{
+    margin-bottom: 35px;
+}
+
+form label .fa-solid{
+    font-size: 20px;
+    color: #FFF;
+    margin-right: 10px;
+}
+
+form label input{
+    outline: none;
+    border: none;
+    color: #252525;
+    border-bottom: solid 1px #FFF;
+    padding: 0 5px;
+    font-size: 18px;
+}
+
+form label input::placeholder{
+    color: rgba(37, 37, 37, 0.5);
+}
+
+form .link{
+    color: #FFF;
+    margin-bottom: 15px;
+}
+
+#botonLogin{
+
+    display: flex;
+    width: 100px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    background: linear-gradient(to right, #971c1c,#022724);
+    border-radius: 5px;
+    color: #FFF;
+    border: none;
+    padding: 15px 30px;
+    text-decoration: none;
+}
+
