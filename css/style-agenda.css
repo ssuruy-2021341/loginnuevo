@@ -35,11 +35,11 @@
     font-family: sans-serif;
     font-weight: 700;
     background: linear-gradient(to right, #971c1c,#022724);
-    border-radius: 5px;
+    border-radius: 0px;
     color: #FFF;
     border: none;
     padding: 15px 30px;
-    text-decoration: dashed;
+    text-decoration: dotted;
 }
 
 #usuario{
