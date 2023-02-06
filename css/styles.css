@@ -1,8 +1,8 @@
 *{
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
-    font-family: sans-serif;
+    box-sizing: content-box;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 body{
@@ -25,7 +25,7 @@ form {
 form .title{
     color: #FFF;
     font-size: 35px;
-    font-weight: 800;
+    font-weight: 400;
     margin-bottom: 30px;
     font-family: 'Times New Roman', Times, serif;
 }
